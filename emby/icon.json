@@ -4,6 +4,7 @@
 	"icons": [
 	{"name": "emby-O", "url": "https://raw.githubusercontent.com/fangshuzai/icons/main/emby/O.png"},
         {"name": "emby-X", "url": "https://raw.githubusercontent.com/fangshuzai/icons/main/emby/X.png"},
-        {"name": "peach-L", "url": "https://raw.githubusercontent.com/code170202/emby-icon/main/emby/round.png"},
+        {"name": "GoogleDrive-O", "url": "https://raw.githubusercontent.com/code170202/emby-icon/main/GoogleDrive/round.png"},
+	{"name": "GoogleDrive-X", "url": "https://raw.githubusercontent.com/code170202/emby-icon/main/GoogleDrive/square.png"}
     ]
 }
